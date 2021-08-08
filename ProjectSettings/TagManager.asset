@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dash
+  - Attack
+  - Gem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - midbg
+  - background
+  - foreground
+  - player
+  - collectibles
+  - gems
+  - enemy
+  - score
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 4151256091
+    locked: 0
+  - name: midbg
+    uniqueID: 3593106747
+    locked: 0
+  - name: foreground
+    uniqueID: 2151898821
+    locked: 0
+  - name: collectibles
+    uniqueID: 725231503
+    locked: 0
+  - name: player
+    uniqueID: 2575383111
+    locked: 0
+  - name: enemy
+    uniqueID: 3551983181
+    locked: 0
+  - name: score
+    uniqueID: 1138281311
+    locked: 0
